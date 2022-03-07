@@ -1,0 +1,9 @@
+weight: 3
+title: "Software Development and Build"
+description: >
+  <ul class="list-style-none">
+    <li>Software Development Efficency</li>
+    <li>Quick more sustainabling building of software</li>
+    <li>Bazel and Rust</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"

@@ -1,0 +1,11 @@
+weight: 4
+title: "Rust Development"
+description: >
+  <ul class="list-style-none">
+    <li>Development of Cloud Solutions in Rust</li>
+    <li>IoT Solutions in Rust</li>
+    <li>Porting to Rust</li>
+    <li>Rust is one of the most sustainable programming languages</li>
+  </ul>  
+image: "img/carousel/template-easy-code.png"
+href: "https://devcows.github.io/hugo-universal-theme/"
