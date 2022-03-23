@@ -2,9 +2,8 @@ weight: 2
 title: "Supply Chain Solutions"
 description: >
   <ul class="list-style-none">
-     <li>Inventory Management</li>
-     <li>Order Management</li>
-     <li>Order Fulfilment and Delivery/li>
+     <li>Inventory Management, Order Management, Order Fulfilment and Delivery</li>
+     <li>Design and implemewntation of a sustainable supply chain solution</li>
    </ul>
 image: "img/carousel/template-mac.png"
 href: "faq"
