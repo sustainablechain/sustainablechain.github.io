@@ -1,0 +1,11 @@
+weight: 4
+title: "Smart Contracts and Proofs"
+description:  >
+  <ul class="list-style-none">
+    <li>Building and testing/fuzzing smart contracts</li>
+    <li>Systems and protocol design</li>
+    <li>Testing and fuzzing</li>
+    <li>Writing high-assurance code</li>
+    <li>Security and performance analysis</li>
+  </ul>  
+image: "img/carousel/template-homepage.png"
